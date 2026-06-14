@@ -1,0 +1,5 @@
+.venv/ → virtual environment (very large)
+captures/ → captured face images
+attendance.xlsx → attendance data
+attendance_log.csv → attendance records
+__pycache__/ → Python cache files

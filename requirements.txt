@@ -1,0 +1,11 @@
+packages required
+
+face-recognition
+opencv-python
+mediapipe
+numpy
+pandas
+openpyxl
+Pillow
+
+
