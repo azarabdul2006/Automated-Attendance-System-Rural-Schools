@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Automated Attendance System for Rural Schools is an AI-powered attendance management solution that uses Face Recognition and Blink Detection to automatically record attendance. The system is designed to reduce manual attendance work, prevent proxy attendance, and support schools with limited internet connectivity.
+The Automated Attendance System for Rural Schools is an attendance management solution that uses Face Recognition and Blink Detection to automatically record attendance. The system is designed to reduce manual attendance work, prevent proxy attendance, and support schools with limited internet connectivity.
 
 ## Features
 
